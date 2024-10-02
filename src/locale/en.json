@@ -1,0 +1,23 @@
+{
+  "CORE": {
+    "page.home.title": "Home",
+    "page.login.title": "Login",
+    "page.login.form.title": "Welcome! 👋🏻",
+    "page.login.form.note": "Please verify your identity to continue",
+    "page.login.form.username": "Username",
+    "page.login.form.password": "Password",
+    "page.login.form.login": "Login",
+    "page.login.form.logout": "Logout",
+    "page.notFound.title": "Not found page",
+    "page.notFound.content": "Sorry, the page you visited does not exist.",
+    "page.notFound.button": "Back Home",
+    "page.forbidden.content": "You don't have permission to access.",
+    "page.error.content": "The system is having problems, please try again later.",
+
+    "hello": "Hello",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "made_with": "Made with ❤️ by",
+    "profile": "Profile"
+  }
+}

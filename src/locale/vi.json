@@ -1,0 +1,23 @@
+{
+  "CORE": {
+    "page.home.title": "Trang chủ",
+    "page.login.title": "Đăng nhập",
+    "page.login.form.title": "Xin chào! 👋🏻",
+    "page.login.form.note": "Vui lòng xác minh danh tính để tiếp tục",
+    "page.login.form.username": "Tài khoản",
+    "page.login.form.password": "Mật khẩu",
+    "page.login.form.login": "Đăng nhập",
+    "page.login.form.logout": "Đăng xuất",
+    "page.notFound.title": "Không tìm thấy trang",
+    "page.notFound.content": "Xin lỗi, trang bạn đã truy cập không tồn tại.",
+    "page.notFound.button": "Quay về Trang chủ",
+    "page.forbidden.content": "Bạn không có quyền truy cập.",
+    "page.error.content": "Hệ thống đang có vấn đề, vui lòng quay lại sau.",
+
+    "hello": "Xin chào",
+    "confirm": "Xác nhận",
+    "cancel": "Hủy bỏ",
+    "made_with": "Được tạo bằng ❤️ bởi",
+    "profile": "Hồ sơ"
+  }
+}
